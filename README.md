@@ -2,17 +2,11 @@
 ## DEMO - [demo link](https://pollstimulaltor.herokuapp.com/)
 
 ### The presentation layer contains 5 UI :
-  1. Home Page
-  2. Add Candidates Page
-  3. Voting Page
-  4. Summary Page
-  5. Results Page
+  ->Home Page,Add Candidates Page,Voting Page, Summary Page,Results Page
   
-### The Buisness Logic Layer Contains :
-  1. Admin Route
-  2. Vote Route
+### The Buisness Logic Layer Contains two files
+->Admin,Vote
   
-### The Data Layer Contains:
-  A data access file named, data.js
+### The Data is stored in data.js
   
   #### -Submitted By: Bhagyashree Ranawat
