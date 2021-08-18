@@ -1,12 +1,12 @@
-# Enterprise Computing - Lab 1
-## DEMO - [Poll Simulator live demo link]
+# Enterprise Computing - Lab 01
+## DEMO - [demo link](https://pollstimulaltor.herokuapp.com/)
 
 ### The presentation layer contains 5 UI :
   1. Home Page
   2. Add Candidates Page
-  3. Results Page
+  3. Voting Page
   4. Summary Page
-  5. Voting Page
+  5. Results Page
   
 ### The Buisness Logic Layer Contains :
   1. Admin Route
