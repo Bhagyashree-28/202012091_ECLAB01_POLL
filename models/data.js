@@ -1,4 +1,4 @@
-let candidates_list = { '202012111': { 'name': "Shatakshi Modi", votes: 9 }, '202012007': { 'name': "Pranay Joshi", votes: 3 }, '202012091': { 'name': "Bhagyashree Ranawat", votes: 4 } }
+let candidates_list = { '202012000': { 'name': "Byun baekhyun", votes: 9 }, '202012001': { 'name': "James bond", votes: 3 }, '202012091': { 'name': "Bhagyashree Ranawat", votes: 4 } }
 let voters_list = []
 
 exports.findVoter = (voter) => {
